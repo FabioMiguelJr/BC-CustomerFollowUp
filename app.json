@@ -1,0 +1,32 @@
+{
+  "id": "65f56e6b-1176-45a4-b1b3-ed21e4c4a61f",
+  "name": "Customer Follow-up",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Registro de follow-ups (retornos) por cliente.",
+  "description": "Permite registrar, acompanhar e concluir follow-ups de clientes direto na ficha do cliente.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith", "TranslationFile"
+  ]
+}
