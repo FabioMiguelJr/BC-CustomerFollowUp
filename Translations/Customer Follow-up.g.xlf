@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Customer Follow-up">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2039968151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Follow-up de Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 3294270728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsável</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Assigned User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 1540107796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concluído em</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Completed At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nome do Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Prevista</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº Mov.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Observações</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2039968151 - Field 1234124704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assunto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CFU Customer Follow-up - Field Subject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 480929643 - Method 2619928713 - NamedType 4288424883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 follow-up(s) concluído(s).</source>
+          <note from="Developer" annotates="general" priority="2">%1 = quantidade</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CFU Follow-up Mgt. - Method MarkAsDone - NamedType DoneMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Follow-up de Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geral</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 3294270728 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuário responsável.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Assigned User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 1540107796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data e hora em que o follow-up foi concluído.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Completed At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nome do cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente relacionado ao follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data prevista para o retorno.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Situação atual do follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 1234124704 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assunto do follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Subject - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 1184938952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Observações</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control NotesGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1046329683 - Control 222620933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Anotações livres sobre o follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up Card - Control Notes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Follow-ups de Clientes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 3294270728 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usuário responsável.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Assigned User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 1171137197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nome do cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente relacionado ao follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data prevista para o retorno.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número sequencial do follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Situação atual do follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Control 1234124704 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assunto do follow-up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Control Subject - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Action 3191213951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conclui os follow-ups selecionados.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Action MarkDone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 563841889 - Action 3191213951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marcar como Concluído</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CFU Customer Follow-up List - Action MarkDone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330219620 - Action 3797588089 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Abre os follow-ups deste cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CFU Customer Card - Action CFUFollowUps - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330219620 - Action 3797588089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Follow-ups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CFU Customer Card - Action CFUFollowUps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330219620 - Action 4228638292 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Cria um novo follow-up para este cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CFU Customer Card - Action CFUNewFollowUp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330219620 - Action 4228638292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Novo Follow-up</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CFU Customer Card - Action CFUNewFollowUp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330219620 - Control 3379859234 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Quantidade de follow-ups em aberto para este cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CFU Customer Card - Control CFU Open Follow-ups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 792087024 - Field 3379859234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Follow-ups Abertos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CFU Customer - Field CFU Open Follow-ups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3340417559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status do Follow-up</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CFU Follow-up Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3340417559 - EnumValue 3844911025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CFU Follow-up Status - EnumValue Canceled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3340417559 - EnumValue 1178809860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Concluído</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CFU Follow-up Status - EnumValue Done - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3340417559 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aberto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CFU Follow-up Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3183600995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Follow-up de Clientes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet CFU Follow-up - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
